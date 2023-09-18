@@ -1,0 +1,13 @@
+body
+{
+    position: fixed;
+    margin-top: 5%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+button
+{
+ font-family: Anton;
+ border-radius: 40%;
+ color:lime ;
+}
